@@ -1,4 +1,4 @@
-Copyright (c) 2010, 2011 by Eben Sorkin (eben@eyebytes.com),
+Copyright (c) 2010-2015 by Eben Sorkin (eben@eyebytes.com),
 with Reserved Font Name "Merriweather".
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
