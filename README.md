@@ -1,3 +1,9 @@
+# This repo is no longer being maintained
+
+To follow submit issues, contribute or maintain current version of the fonts from the Merriweather project please redirect your attention to: 
+
+https://github.com/SorkinType/Merriweather/blob/master/README.md
+
 # Merriweather FONTLOG
 
 This file provides detailed information on Merriweather font Software.
